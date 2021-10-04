@@ -1,0 +1,3 @@
+2021/10/04 12:13:27 [error] 38#0: *1 directory index of "/opt/bitnami/nginx/html/" is forbidden, client: 172.24.0.1, server: , request: "GET / HTTP/1.1", host: "localhost", referrer: "https://medium.com/@pichid/%E0%B9%83%E0%B8%8A%E0%B9%89%E0%B8%87%E0%B8%B2%E0%B8%99-docker-%E0%B8%81%E0%B8%B1%E0%B8%9A-laravel-5-part-1-%E0%B8%AA%E0%B8%A3%E0%B9%89%E0%B8%B2%E0%B8%87-lemp-%E0%B8%94%E0%B9%89%E0%B8%A7%E0%B8%A2-docker-1d27874be201"
+2021/10/04 12:30:06 [error] 27#0: *6 directory index of "/app/" is forbidden, client: 172.24.0.1, server: default_server, request: "GET / HTTP/1.1", host: "localhost"
+2021/10/04 12:36:38 [error] 30#0: *9 directory index of "/app/" is forbidden, client: 172.24.0.1, server: default_server, request: "GET / HTTP/1.1", host: "localhost"
